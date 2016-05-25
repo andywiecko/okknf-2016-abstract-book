@@ -1,2 +1,2 @@
-# okknf-2016-abstractbook
-Abstractbook for OKKNF 2016 conference
+# okknf-2016-abstract-book
+Abstract book for OKKNF 2016 conference
